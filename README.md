@@ -1,5 +1,5 @@
 # LLM-Boilerplate
-Notebooks with detailed tutorials to build LLM pipelines and applications.
+Notebook tutorials to get you started with LLM pipelines and applications.
 
 ## Qdrant Database
 1. [Structured Output from LLMs using DSPy Assertions](https://github.com/Ashish-Abraham/LLM-Boilerplate/blob/main/Qdrant/Qdrant_DsPy_Superteams.ipynb)
