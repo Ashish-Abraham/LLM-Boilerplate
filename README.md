@@ -1,2 +1,2 @@
-# DSPy
-Notebooks with detailed tutorials to build LLM pipelines using DSPy 
+# LLM-Boilerplate
+Notebooks with detailed tutorials to build LLM pipelines and applications.
