@@ -8,3 +8,7 @@ Notebook tutorials to get you started with LLM pipelines and applications.
 ## Qdrant Database
 1. [Structured Output from LLMs using DSPy Assertions](https://github.com/Ashish-Abraham/LLM-Boilerplate/blob/main/Qdrant/Qdrant_DsPy_Superteams.ipynb)
 2. [RAG Evaluation using RAGAs and LangChain](https://github.com/Ashish-Abraham/LLM-Boilerplate/blob/main/Qdrant/qdrant_ragas_langchain.ipynb)
+
+## Indexify
+1. [Property Data Analysis & RAG](https://github.com/Ashish-Abraham/LLM-Boilerplate/tree/main/Indexify/property_doc_RAG)
+2. [Conversation Data Extractor](https://github.com/Ashish-Abraham/LLM-Boilerplate/tree/main/Indexify/conversation-analysis)
